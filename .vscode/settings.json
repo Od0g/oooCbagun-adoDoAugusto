@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.py": "python",
+        "*.json": "c",
+        "EXERC04.C": "cpp"
+    }
+}
