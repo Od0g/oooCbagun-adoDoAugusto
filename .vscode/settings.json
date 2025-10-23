@@ -2,6 +2,7 @@
     "files.associations": {
         "*.py": "python",
         "*.json": "c",
-        "EXERC04.C": "cpp"
+        "EXERC04.C": "cpp",
+        "BBS22102025.C": "cpp"
     }
 }
